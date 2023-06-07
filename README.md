@@ -38,6 +38,6 @@
 
 <div sryle:'display:inline_block'><br>
 <li>📫 How to find me:<br><br></li>
-  <a href='./linkedin.com/in/felipe_silva_1019ab271' target'_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'</a>
+  <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target'_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'</a>
   <a href="mailto:felipesilva.developer@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </div>  

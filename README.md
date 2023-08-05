@@ -39,3 +39,4 @@
   <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target'_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'</a>
   <a href="mailto:felipesilva.developer@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </div> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&animation=twinkling&section=footer"/>

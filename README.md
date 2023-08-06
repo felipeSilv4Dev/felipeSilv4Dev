@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/felipeSilv4Dev">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipeSilv4Dev&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=5EEBFF&icon_color=FF86FF%text_color=c9d1d9&bg_color=0d1117" alt="Felipe Silva github stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeSilv4Dev&layout=compact&hide_border=true&tilte_color&text_color=5EEBFF&bg_color=0d1117"/>
+  <img width="50%" height="250px" src="https://github-readme-stats.vercel.app/api?username=felipeSilv4Dev&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=5EEBFF&icon_color=FF86FF%text_color=c9d1d9&bg_color=0d1117" alt="Felipe Silva github stats"/>
+  <img width="40%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeSilv4Dev&layout=compact&hide_border=true&tilte_color&text_color=5EEBFF&bg_color=0d1117"/>
 </div>
 
  
@@ -23,13 +23,10 @@
   
 ##
 
+<div align="center" >
+   <img  width="100%" height="250px" src="https://i.pinimg.com/originals/1d/73/5a/1d735ad8eee8350adc96d50e1421ee6d.gif"/>
 
-<p> 🔭 Programming Student </p>
-
-<p> 🌱 Studying javaScript / html / css</p>
-
-<p> 😄 Pronouns: ele / dele</p>
-
+</div>
 
 <h2 align="center"><strong >Tools and Languages</strong></h2>
 
@@ -38,7 +35,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,git"/></a>
 </div>
 
-<div sryle:'display:inline_block'><br>
+<div ><br>
 <h2 align="center"><strong >Contacts</strong></h2>
   <br>
   <div align="center">

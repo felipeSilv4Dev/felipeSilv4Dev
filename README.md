@@ -20,11 +20,6 @@
   
 ##
 
-<div align="center" >
-   <img  width="100%" height="250px" src="https://i.pinimg.com/originals/1d/73/5a/1d735ad8eee8350adc96d50e1421ee6d.gif"/>
-
-</div>
-
 <h2 align="center"><strong >Tools and Languages</strong></h2>
 
 <div align="center" >

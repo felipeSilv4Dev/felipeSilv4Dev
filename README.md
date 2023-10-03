@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33FFCE&height=180&section=header&text=Hi%20there,%20Welcome%20to%20my%20profile%20&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" /> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=5EEBFF&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MY+NAME+IS+%C3%89+FELIPE+SILVA+!;I'M+A+PROGRAMMING+STUDENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=5EEBFF&center=true&vCenter=true&width=1000&lines=MY+NAME+IS+FELIPE+SILVA+!;I'M+A+PROGRAMMING+STUDENT)](https://git.io/typing-svg)
 
 <div align="center"/>        
    <img src="https://inspgr.id/app/uploads/2023/05/pixel-art-kirokaze-19.gif" width="100%"/>

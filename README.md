@@ -31,7 +31,7 @@
 <h2 align="center"><strong >Contacts</strong></h2>
   <br>
   <div align="center">
-  <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target'_blank'><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target'_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href="mailto:felipesilva.developer@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </div> 
 </div> 

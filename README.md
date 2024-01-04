@@ -1,15 +1,15 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33FFCE&height=180&section=header&text=Hi%20there,%20Welcome%20to%20my%20profile%20&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" /> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F9A89&height=180&section=header&text=Hi%20there,%20Welcome%20to%20my%20profile%20&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" /> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=5EEBFF&center=true&vCenter=true&width=1000&lines=MY+NAME+IS+FELIPE+SILVA+!;I'M+A+PROGRAMMING+STUDENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3F9A89&center=true&vCenter=true&width=1000&lines=MY+NAME+IS+FELIPE+SILVA+!;I'M+A+PROGRAMMING+STUDENT)](https://git.io/typing-svg)
 
 <div align="center"/>        
    <img src="https://inspgr.id/app/uploads/2023/05/pixel-art-kirokaze-19.gif" width="100%"/>
 </div> 
 <div align="center">
   <a href="https://github.com/felipeSilv4Dev">
-  <img width="52%" height="auto" src="https://github-readme-stats.vercel.app/api?username=felipeSilv4Dev&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=5EEBFF&icon_color=FF86FF%text_color=c9d1d9&bg_color=0d1117" alt="Felipe Silva github stats"/>
-  <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeSilv4Dev&layout=compact&hide_border=true&tilte_color&text_color=5EEBFF&bg_color=0d1117"/>
+  <img width="52%" height="auto" src="https://github-readme-stats.vercel.app/api?username=felipeSilv4Dev&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=47B59B&icon_color=47B59B%text_color=c9d1d9&bg_color=0D0E0E" alt="Felipe Silva github stats"/>
+  <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeSilv4Dev&layout=compact&hide_border=true&tilte_color&text_color=47B59B&bg_color=0D0E0E"/>
 </div>
 </div>
 </div>
@@ -37,4 +37,4 @@
 </div> 
 <br>
    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33FFCE&height=180&animation=twinkling&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F9A89&height=180&animation=twinkling&section=footer"/>

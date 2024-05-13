@@ -8,8 +8,8 @@
 </div> 
 <div align="center">
   <a href="https://github.com/felipeSilv4Dev">
-  <img width="52%" height="auto" src="https://github-readme-stats.vercel.app/api?username=felipeSilv4Dev&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=f5f5f5&icon_color=E7E7E7%text_color=f5f5f5&bg_color=2F2F2F" alt="Felipe Silva github stats"/>
-  <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeSilv4Dev&layout=compact&hide_border=true&tilte_color=E7E7E7&text_color=f5f5f5&bg_color=2F2F2F"/>
+  <img width="52%" height="auto" src="https://github-readme-stats.vercel.app/api?username=felipeSilv4Dev&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=f5f5f5&icon_color=E7E7E7%text_color=f5f5f5&bg_color=000" alt="Felipe Silva github stats"/>
+  <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeSilv4Dev&layout=compact&hide_border=true&tilte_color=E7E7E7&text_color=f5f5f5&bg_color=000"/>
 </div>
 </div>
 </div>

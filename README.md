@@ -4,7 +4,12 @@
 
 <div align="center"/>        
    <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" width="100%"/>
-</div> 
+</div>
+
+<img width=100% src="./imgs/activities.png"/>
+
+##
+
 <div align="center">
   <a href="https://github.com/felipeSilv4Dev">
   <img width="52%" height="auto" src="https://github-readme-stats.vercel.app/api?username=felipeSilv4Dev&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=f5f5f5&icon_color=E7E7E7%text_color=f5f5f5&bg_color=000" alt="Felipe Silva github stats"/>
@@ -14,12 +19,17 @@
 </div>
   
   ##
-<h2 align="center" ><strong>Hello! I'm Felipe Silva</strong></h2>
+<img width=100% src="./imgs/me.png"/>
+
+##
+
 <p>"hello 👋, my name is felipe silva de santana, i'm majoring in systems analysis and development, i entered the IT area due to an interest in knowing how web applications are developed and since then i find myself falling more and more in love with the area, i hope to contribute to the market for a better user experience users and have an impact, in a certain way, on people's lives. I am an attentive and easy-to-friend person who seeks, above all, to contribute to the evolution of technologies 🚀."</p>
   
 ##
 
-<h2 align="center"><strong >Tools and Languages</strong></h2>
+<img width=100% src="./imgs/tools.png"/>
+
+##
 
 <div align="center" >
   <br>
@@ -29,6 +39,9 @@
 <div ><br>
 <!-- <h2 align="center"><strong >Contacts</strong></h2> -->
 <img width=100% src="./imgs/contacts.png"/>
+
+##
+
   <br>
   <div align="center">
   <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target'_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>

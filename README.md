@@ -11,15 +11,17 @@
 <img width=100% src="./imgs/activities.png"  alt="activities image"/>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=felipeSilv4Dev&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-<img align="left" height="473px" src="https://felipeSilv4Dev-github-readme-stats.vercel.app/api/top-langs?username=felipeSilv4Dev&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400&layout=pie" />
+
+ <a  href="https://github.com/felipeSilv4Dev">
+    <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeSilv4Dev&langs_count=10&title_color=fff&text_color=ffffff&icon_color=171C24&bg_color=171C24&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
+  </a>
+
+  
 <div align="right">
-  <img width="505px" src="https://felipeSilv4Dev-github-readme-stats.vercel.app/api?username=felipeSilv4Dev&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
-  <img width="505px" src="https://streak-stats.demolab.com?user=felipeSilv4Dev&theme=tokyonight&hide_border=true" />
+  <img width="67%"  src="https://streak-stats.demolab.com?user=felipeSilv4Dev&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://felipeSilv4Dev-github-readme-stats.vercel.app/api/wakatime?username=felipeSilv4Dev&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
-</div>
+
 </div>
 </div>
 

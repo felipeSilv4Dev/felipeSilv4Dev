@@ -21,9 +21,8 @@
 ##
 
 <img width=100% src="./imgs/me.png"/>
-<img src="./imgs/chaplin.gif.gif"  width="50%" align="left" alt="dance image"/>
-
-<p>"hello 👋, my name is felipe silva de santana, i'm majoring in systems analysis and development, i entered the IT area due to an interest in knowing how web applications are developed and since then i find myself falling more and more in love with the area, i hope to contribute to the market for a better user experience users and have an impact, in a certain way, on people's lives. I am an attentive and easy-to-friend person who seeks, above all, to contribute to the evolution of technologies 🚀."</p>
+<img src="https://i.pinimg.com/originals/5a/64/e0/5a64e0e67dbf8d0487235e3857c29ebe.gif" align="left" width="786px" height="435px" alt="image gif"/>
+<img src="./imgs/text-me.png" align="right" width="974px" height="435px" alt="text me image"  />
 
 ##
 
@@ -33,8 +32,6 @@
   <br>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,git,sass,react,bootstrap,github,typescript"/></a>
 </div>
-
-<!-- <h2 align="center"><strong >Contacts</strong></h2> -->
 
 ##
 

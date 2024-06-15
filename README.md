@@ -40,11 +40,106 @@
 ##
 
 <img width=100% src="./imgs/tools.png"  alt="tools image"/>
+<table align="center" height="252px" >
+   <tr >
+<td align="center" >
+  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=html"  width="90px"  /></a>
+   <sub align="center">
+    <pre align="center">HTML</pre>   
+   </sub>
+</td>
 
-<div align="center" >
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,git,sass,react,bootstrap,github,typescript"/></a>
-</div>
+<td align="center" >
+<a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=css" width="90px" /></a>
+       <sub >
+    <pre align="center">CSS3</pre>   
+   </sub>
+</td>
+ </tr>
+
+ <tr>   
+<td align="center" >
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js"  width="90px"/></a>
+       <sub >
+    <pre align="center">JAVASCRIPT</pre>   
+   </sub>
+</td>
+
+<td align="center" >
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="90px"/></a>
+       <sub >
+    <pre align="center">REACT</pre>   
+   </sub>
+   </td>
+
+   </tr>
+ 
+ 
+      
+
+ <tr  >
+     <td align="center" >
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript"  width="90px"/></a>
+            <sub >
+    <pre align="center">TYPESCRIPT</pre>   
+   </sub>
+      </td>
+    <td align="center" >
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sass"  width="90px"/></a>
+            <sub >
+    <pre align="center">SASS</pre>   
+   </sub>
+      </td>
+   </tr>
+
+ <tr >
+   <td align="center" >
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github"  width="90px"/></a>
+            <sub >
+    <pre align="center">GITHUB</pre>   
+   </sub>
+      </td>
+      <td align="center" >
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git"  width="90px"/></a>
+            <sub >
+    <pre align="center">GIT</pre>   
+   </sub>
+      </td>
+   </tr>
+
+ <tr >
+      <td align="center" >
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma"  width="90px"/></a>
+            <sub >
+    <pre align="center">FIGMA</pre>   
+   </sub>
+      </td>
+<td align="center" >
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind"  width="90px"/></a>
+               <sub >
+    <pre align="center">TAILWIND CSS</pre>   
+   </sub>
+      </td>
+    
+ </tr>
+ <tr >
+      <td align="center">
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap"  width="90px"/></a>
+            <sub >
+    <pre align="center">BOOTSTRAP</pre>   
+   </sub>
+      </td>
+      <td align="center">
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode"  width="90px"/></a>
+            <sub >
+    <pre align="center">VSCODE</pre>   
+   </sub>
+      </td>
+   </tr>
+  
+</table>
+
+
 
 ##
 

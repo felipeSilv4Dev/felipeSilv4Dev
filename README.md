@@ -26,7 +26,7 @@
 
 
    
-<img src="https://i.pinimg.com/originals/5a/64/e0/5a64e0e67dbf8d0487235e3857c29ebe.gif" align="left" width="40%" height="228px"  alt="image gif"/>
+<img src="https://i.pinimg.com/originals/5a/64/e0/5a64e0e67dbf8d0487235e3857c29ebe.gif" align="left" width="40%" height="227px"  alt="image gif"/>
 <img src="./imgs/text-me.png" align="center" width="60%" alt="text me image"  />
 </div>
 

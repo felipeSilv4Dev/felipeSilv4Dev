@@ -40,10 +40,14 @@
 ##
 
 <img width=100% src="./imgs/tools.png"  alt="tools image"/>
-<table align="center" height="252px" >
+
+<img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  align="left" width="50%"   alt="gif image"/>
+
+
+<table align="right" height="500px" >
    <tr >
 <td align="center" >
-  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=html"  width="90px"  /></a>
+  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=html" width="10%"  /></a>
    <sub align="center">
     <pre align="center">HTML</pre>   
    </sub>
@@ -55,15 +59,16 @@
     <pre align="center">CSS3</pre>   
    </sub>
 </td>
- </tr>
 
- <tr>   
 <td align="center" >
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js"  width="90px"/></a>
        <sub >
     <pre align="center">JAVASCRIPT</pre>   
    </sub>
 </td>
+ </tr>
+
+ <tr>   
 
 <td align="center" >
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="90px"/></a>
@@ -71,14 +76,28 @@
     <pre align="center">REACT</pre>   
    </sub>
    </td>
+       <td align="center" >
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=styledcomponents"  width="90px"/></a>
+            <sub >
+    <pre align="center">STYLED COMPONENTS</pre>   
+   </sub>
+      </td>
 
+   <td align="center" >
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs"  width="90px"/></a>
+       <sub >
+    <pre align="center">NODE JS</pre>   
+   </sub>
+</td>
    </tr>
  
  
       
 
  <tr  >
-     <td align="center" >
+ 
+     
+   <td align="center" >
           <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript"  width="90px"/></a>
             <sub >
     <pre align="center">TYPESCRIPT</pre>   
@@ -88,6 +107,13 @@
           <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sass"  width="90px"/></a>
             <sub >
     <pre align="center">SASS</pre>   
+   </sub>
+      </td>
+
+ <td align="center" >
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma"  width="90px"/></a>
+            <sub >
+    <pre align="center">FIGMA</pre>   
    </sub>
       </td>
    </tr>
@@ -105,31 +131,40 @@
     <pre align="center">GIT</pre>   
    </sub>
       </td>
+
+   <td align="center" >
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite"  width="90px"/></a>
+            <sub >
+    <pre align="center">VITE</pre>   
+   </sub>
+      </td>
    </tr>
 
  <tr >
-      <td align="center" >
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma"  width="90px"/></a>
-            <sub >
-    <pre align="center">FIGMA</pre>   
-   </sub>
-      </td>
+
 <td align="center" >
           <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind"  width="90px"/></a>
                <sub >
     <pre align="center">TAILWIND CSS</pre>   
    </sub>
       </td>
-    
- </tr>
- <tr >
-      <td align="center">
+
+ <td align="center" >
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=npm"  width="90px"/></a>
+               <sub >
+    <pre align="center">NPM</pre>   
+   </sub>
+      </td>
+       <td align="center">
           <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap"  width="90px"/></a>
             <sub >
     <pre align="center">BOOTSTRAP</pre>   
    </sub>
-      </td>
-      <td align="center">
+      </td> 
+ </tr>
+ <tr >
+  
+   <td align="center">
           <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode"  width="90px"/></a>
             <sub >
     <pre align="center">VSCODE</pre>   
@@ -139,16 +174,15 @@
   
 </table>
 
-
-
 ##
+
 
 <img width=100% src="./imgs/contacts.png"  alt="contact image" />
 <div >
   <br>
   <div align="center">
-  <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target'_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-  <a href="mailto:felipesilva.developer@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target'_blank'> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linkedin"  width="70px"/></a></a>
+  <a href="mailto:felipesilva.developer@gmail.com" target='_blank'> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gmail"  width="70px"/></a></a>
 </div> 
 </div> 
 <br>

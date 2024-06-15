@@ -41,7 +41,7 @@
 
 <img width=100% src="./imgs/tools.png"  alt="tools image"/>
 
-<img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  align="left" width="40%"   alt="gif image"/>
+<img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  align="left" width="60%"   alt="gif image"/>
 
 
 <table align="right" height="500px" >

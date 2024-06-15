@@ -8,7 +8,7 @@
 
 ##
 
-<img width=100% src="./imgs/activities.png"/>
+<img width=100% src="./imgs/activities.png"  alt="activities image"/>
 
 <div align="center">
   <a href="https://github.com/felipeSilv4Dev">
@@ -21,13 +21,13 @@
 ##
 
 <img width=100% src="./imgs/me.png"/>
-<img src="./imgs/chaplin.gif.gif"  width="50%" align="left"/>
+<img src="./imgs/chaplin.gif.gif"  width="50%" align="left" alt="dance image"/>
 
 <p>"hello 👋, my name is felipe silva de santana, i'm majoring in systems analysis and development, i entered the IT area due to an interest in knowing how web applications are developed and since then i find myself falling more and more in love with the area, i hope to contribute to the market for a better user experience users and have an impact, in a certain way, on people's lives. I am an attentive and easy-to-friend person who seeks, above all, to contribute to the evolution of technologies 🚀."</p>
 
 ##
 
-<img width=100% src="./imgs/tools.png"/>
+<img width=100% src="./imgs/tools.png"  alt="tools image"/>
 
 <div align="center" >
   <br>
@@ -38,7 +38,7 @@
 
 ##
 
-<img width=100% src="./imgs/contacts.png" />
+<img width=100% src="./imgs/contacts.png"  alt="contact image" />
 <div >
   <br>
   <div align="center">

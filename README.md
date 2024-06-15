@@ -1,5 +1,4 @@
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D6D6D&height=180&section=header&text=Hi%20there,%20Welcome%20to%20my%20profile%20&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" /> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D6D6D&height=180&section=header&text=Hi%20there,%20Welcome%20to%20my%20profile%20&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=f5f5f5&center=true&vCenter=true&width=1000&lines=MY+NAME+IS+FELIPE+SILVA+!;I'M+A+PROGRAMMING+STUDENT)](https://git.io/typing-svg)
 
@@ -28,7 +27,8 @@
 </div>
 
 <div ><br>
-<h2 align="center"><strong >Contacts</strong></h2>
+<!-- <h2 align="center"><strong >Contacts</strong></h2> -->
+<img width=100% src="./imgs/contacts.png"/>
   <br>
   <div align="center">
   <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target'_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>

@@ -6,9 +6,9 @@
    <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" width="100%"/>
 </div>
 
-<img width=100% src="./imgs/activities.png"/>
-
 ##
+
+<img width=100% src="./imgs/activities.png"/>
 
 <div align="center">
   <a href="https://github.com/felipeSilv4Dev">
@@ -18,30 +18,28 @@
 </div>
 </div>
 
-
-<img width=100% src="./imgs/me.png"/>
-
 ##
 
+<img width=100% src="./imgs/me.png"/>
+<img src="https://i.pinimg.com/originals/f1/64/7c/f1647c095b309fa390a977882c013543.gif"  width="50%" align="left"/>
+
 <p>"hello 👋, my name is felipe silva de santana, i'm majoring in systems analysis and development, i entered the IT area due to an interest in knowing how web applications are developed and since then i find myself falling more and more in love with the area, i hope to contribute to the market for a better user experience users and have an impact, in a certain way, on people's lives. I am an attentive and easy-to-friend person who seeks, above all, to contribute to the evolution of technologies 🚀."</p>
-  
+
 ##
 
 <img width=100% src="./imgs/tools.png"/>
-
-##
 
 <div align="center" >
   <br>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,git,sass,react,bootstrap,github,typescript"/></a>
 </div>
 
-<div ><br>
 <!-- <h2 align="center"><strong >Contacts</strong></h2> -->
-<img width=100% src="./imgs/contacts.png"/>
 
 ##
 
+<img width=100% src="./imgs/contacts.png"/>
+<div >
   <br>
   <div align="center">
   <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target'_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>

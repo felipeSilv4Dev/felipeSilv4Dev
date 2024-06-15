@@ -20,9 +20,15 @@
 
 ##
 
+
 <img width=100% src="./imgs/me.png"/>
-<img src="https://i.pinimg.com/originals/5a/64/e0/5a64e0e67dbf8d0487235e3857c29ebe.gif" align="left" width="786px" height="435px" alt="image gif"/>
-<img src="./imgs/text-me.png" align="right" width="974px" height="435px" alt="text me image"  />
+<div align="center">
+
+
+   
+<img src="https://i.pinimg.com/originals/5a/64/e0/5a64e0e67dbf8d0487235e3857c29ebe.gif" align="left" width="40%" height="270px"  alt="image gif"/>
+<img src="./imgs/text-me.png" align="center" width="60%" alt="text me image"  />
+</div>
 
 ##
 

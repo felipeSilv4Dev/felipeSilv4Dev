@@ -41,13 +41,13 @@
 
 <img width=100% src="./imgs/tools.png"  alt="tools image"/>
 
-<img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  align="left" width="50%"   alt="gif image"/>
+<img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  align="left" width="40%"   alt="gif image"/>
 
 
 <table align="right" height="500px" >
    <tr >
 <td align="center" >
-  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=html" width="10%"  /></a>
+  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=html" width="90px"  /></a>
    <sub align="center">
     <pre align="center">HTML</pre>   
    </sub>

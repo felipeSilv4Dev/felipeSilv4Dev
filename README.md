@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=f5f5f5&center=true&vCenter=true&width=1000&lines=MY+NAME+IS+FELIPE+SILVA+!;I'M+A+PROGRAMMING+STUDENT)](https://git.io/typing-svg)
 
 <div align="center"/>        
-   <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" width="100%"/>
+   <img src="./imgs/apresentation.gif" width="100%"/>
 </div>
 
 ##
@@ -16,7 +16,6 @@
     <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeSilv4Dev&langs_count=10&title_color=fff&text_color=ffffff&icon_color=171C24&bg_color=171C24&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
   </a>
 
-  
 <div align="right">
   <img width="67%"  src="https://streak-stats.demolab.com?user=felipeSilv4Dev&theme=tokyonight&hide_border=true" />
 </div>
@@ -27,12 +26,9 @@
 
 ##
 
-
 <img width=100% src="./imgs/me.png"/>
 <div align="center">
 
-
-   
 <img src="https://i.pinimg.com/originals/5a/64/e0/5a64e0e67dbf8d0487235e3857c29ebe.gif" align="left" width="40%" height="227px"  alt="image gif"/>
 <img src="./imgs/text-me.png" align="center" width="60%" alt="text me image"  />
 </div>
@@ -42,7 +38,6 @@
 <img width=100% src="./imgs/tools.png"  alt="tools image"/>
 
 <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  align="left" width="52%"   alt="gif image"/>
-
 
 <table align="right" height="450px" >
    <tr >
@@ -68,7 +63,7 @@
 </td>
  </tr>
 
- <tr>   
+ <tr>
 
 <td align="center" >
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="90px"/></a>
@@ -92,7 +87,7 @@
    </tr>
  
  
-      
+
 
  <tr  >
  
@@ -175,7 +170,6 @@
 </table>
 
 ##
-
 
 <img width=100% src="./imgs/contacts.png"  alt="contact image" />
 <div >

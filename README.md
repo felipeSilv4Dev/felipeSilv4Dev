@@ -167,12 +167,11 @@
 ##
 
 <img width=100% src="./imgs/contacts.png"  alt="contact image" />
-<div >
+<div  align="center">
   <br>
-  <div align="center">
-  <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target'_blank'><img src="https://skillicons.dev/icons?i=linkedin"  width="70px"/></a>
-	
-  <a href="mailto:felipesantana18n@gmail.com" target='_blank'> <img src="https://skillicons.dev/icons?i=gmail"  width="70px"/></a>
+
+  <a href="mailto:felipesantana18n@gmail.com" target='_blank'><img src="https://skillicons.dev/icons?i=gmail"  width="70px"/></a>
+  <a href="http://www.linkedin.com/in/felipe-silva-1019ab271" target="_blank" ><img src="https://skillicons.dev/icons?i=linkedin"  width="70px"/></a>
 </div> 
 </div> 
 <br>

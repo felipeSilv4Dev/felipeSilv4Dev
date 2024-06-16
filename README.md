@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=171C24&height=180&section=header&text=Hi%20there,%20Welcome%20to%20my%20profile%20&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img width="100%" src="./imgs/welcome.png"  alt="welcome image"/>
 
 <div align="center"/>        
    <img src="./imgs/apresentation.gif" width="100%"/>
@@ -176,4 +176,4 @@
 </div> 
 <br>
    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=171C24&height=180&animation=twinkling&section=footer"/>
+<img width="100%" src="./imgs/end.png"  alt="end image"/>

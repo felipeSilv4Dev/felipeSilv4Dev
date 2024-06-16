@@ -6,7 +6,7 @@
 
 ##
 
-<img width=100% src="./imgs/activities.png"  alt="activities image"/>
+<img width="100%" src="./imgs/activities.png"  alt="activities image"/>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=felipeSilv4Dev&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
@@ -83,7 +83,6 @@
    </sub>
 </td>
    </tr>
- 
 
 
  <tr  >

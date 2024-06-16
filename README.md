@@ -35,7 +35,7 @@
 
 <img width=100% src="./imgs/tools.png"  alt="tools image"/>
 
-<img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  align="left" width="52%"   alt="gif image"/>
+<img src="./imgs/frase.png"  align="left" width="52%"   alt="frase steve jobs image"/>
 
 <table align="right" height="450px" >
    <tr >
@@ -170,7 +170,7 @@
 <div >
   <br>
   <div align="center">
-  <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target'_blank'><img src="https://skillicons.dev/icons?i=linkedin"  width="70px"/></a>
+  <a href='http://www.linkedin.com/in/felipe-silva-1019ab271' target='_blank'><img src="https://skillicons.dev/icons?i=linkedin"  width="70px"/></a>
 	
   <a href="mailto:felipesantana18n@gmail.com" target='_blank'> <img src="https://skillicons.dev/icons?i=gmail"  width="70px"/></a>
 </div> 

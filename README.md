@@ -129,7 +129,6 @@
    </sub>
       </td>
    </tr>
-
  <tr >
 
 <td align="center" >
@@ -152,8 +151,8 @@
    </sub>
       </td> 
  </tr>
+
  <tr >
-  
    <td align="center">
           <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode"  width="90px"/></a>
             <sub >

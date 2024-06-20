@@ -37,7 +37,7 @@
 
 <img width=100% src="./imgs/tools-image.png"  alt="tools image"/>
 
-<img src="./imgs/frase.png"  align="left" width="49%"   alt="frase steve jobs image"/>
+<img src="./imgs/frase-jobs.png"  align="left" width="49%"   alt="frase steve jobs image"/>
 
 <table align="right" height="450px" >
    <tr >

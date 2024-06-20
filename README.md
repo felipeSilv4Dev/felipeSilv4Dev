@@ -35,7 +35,7 @@
 
 ##
 
-<img width=100% src="./imgs/tools-image.png"  alt="tools image"/>
+<img width=100% src="./imgs/tools-image.png"  alt="tools and languages image"/>
 
 <img src="./imgs/frase-jobs.png"  align="left" width="49%"   alt="frase steve jobs image"/>
 

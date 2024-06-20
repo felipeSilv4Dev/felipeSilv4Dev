@@ -8,7 +8,7 @@
 
 ##
 
-<img width="100%" src="./imgs/activities.png"  alt="activities image"/>
+<img width="100%" src="./imgs/activities-image.png"  alt="activities image"/>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=felipeSilv4Dev&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
@@ -26,7 +26,7 @@
 
 ##
 
-<img width=100% src="./imgs/me.png"/>
+<img width=100% src="./imgs/about-me.png"/>
 <div align="center">
 
 <img src="https://i.pinimg.com/originals/5a/64/e0/5a64e0e67dbf8d0487235e3857c29ebe.gif" align="left" width="40%" height="227px"  alt="image gif"/>
@@ -35,7 +35,7 @@
 
 ##
 
-<img width=100% src="./imgs/tools.png"  alt="tools image"/>
+<img width=100% src="./imgs/tools-image.png"  alt="tools image"/>
 
 <img src="./imgs/frase.png"  align="left" width="49%"   alt="frase steve jobs image"/>
 
@@ -167,7 +167,7 @@
 
 ##
 
-<img width=100% src="./imgs/contacts.png"  alt="contact image" />
+<img width=100% src="./imgs/contacts-image.png"  alt="contact image" />
 <div  align="center">
   <br>
 
@@ -179,4 +179,3 @@
 <br>
    
 ##
-<img width="100%" src="./imgs/end.png"  alt="end image"/>

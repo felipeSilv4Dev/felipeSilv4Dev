@@ -29,7 +29,7 @@
 <img width=100% src="./imgs/story.png"/>
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/a5/99/b7/a599b7282ede7fb96de5bab653958251.gif" align="left" width="40%" height="227px"  alt="image gif"/>
+<img src="https://i.pinimg.com/originals/90/bf/f7/90bff7f439aa4424896d0e4aa7dc21ae.gif" align="left" width="40%" height="320px"  alt="image gif"/>
 <img src="./imgs/who-is-me.jpg" align="center" width="60%" alt="text me image"  />
 </div>
 
@@ -39,7 +39,7 @@
 
 <img src="./imgs/steve-jobs.png"  align="left" width="49%"   alt="frase steve jobs image"/>
 
-<table align="right" height="450px" >
+<table align="right" height="500px" >
    <tr >
 <td align="center" >
   <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=html" width="90px"  /></a>

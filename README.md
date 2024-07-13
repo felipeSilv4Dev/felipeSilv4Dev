@@ -1,14 +1,14 @@
-<img width="100%" src="./imgs/welcome-to.png"  alt="welcome image"/>
+<img width="100%" src="./imgs/apresentation.png"  alt="welcome image"/>
 
 ##
 
 <div align="center"/>        
-   <img src="https://i.pinimg.com/originals/7a/14/51/7a1451c07ba25f8c2f1ae81f8da4ad9f.gif" width="100%"/>
+   <img src="https://i.pinimg.com/originals/69/0d/ab/690dab3fdaa3f61593bd8a5318eb5419.gif" width="100%"/>
 </div>
 
 ##
 
-<img width="100%" src="./imgs/activities-image.png"  alt="activities image"/>
+<img width="100%" src="./imgs/map.png"  alt="activities image"/>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=felipeSilv4Dev&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
@@ -26,18 +26,18 @@
 
 ##
 
-<img width=100% src="./imgs/about-me.png"/>
+<img width=100% src="./imgs/story.png"/>
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/5a/64/e0/5a64e0e67dbf8d0487235e3857c29ebe.gif" align="left" width="40%" height="227px"  alt="image gif"/>
-<img src="./imgs/text-me.png" align="center" width="60%" alt="text me image"  />
+<img src="https://i.pinimg.com/originals/a5/99/b7/a599b7282ede7fb96de5bab653958251.gif" align="left" width="40%" height="227px"  alt="image gif"/>
+<img src="./imgs/who-is-me.jpg" align="center" width="60%" alt="text me image"  />
 </div>
 
 ##
 
-<img width=100% src="./imgs/tools-image.png"  alt="tools and languages image"/>
+<img width=100% src="./imgs/languages.png"  alt="tools and languages image"/>
 
-<img src="./imgs/frase-jobs.png"  align="left" width="49%"   alt="frase steve jobs image"/>
+<img src="./imgs/steve-jobs.png"  align="left" width="49%"   alt="frase steve jobs image"/>
 
 <table align="right" height="450px" >
    <tr >
@@ -167,7 +167,7 @@
 
 ##
 
-<img width=100% src="./imgs/contacts-image.png"  alt="contact image" />
+<img width=100% src="./imgs/contact.png"  alt="contact image" />
 <div  align="center">
   <br>
 

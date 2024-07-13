@@ -29,7 +29,7 @@
 <img width=100% src="./imgs/story.png"/>
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/90/bf/f7/90bff7f439aa4424896d0e4aa7dc21ae.gif" align="left" width="40%" height="320px"  alt="image gif"/>
+<img src="https://i.pinimg.com/originals/90/bf/f7/90bff7f439aa4424896d0e4aa7dc21ae.gif" align="left" width="40%" height="227px"  alt="image gif"/>
 <img src="./imgs/who-is-me.jpg" align="center" width="60%" alt="text me image"  />
 </div>
 
